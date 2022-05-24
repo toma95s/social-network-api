@@ -1,6 +1,16 @@
 # social-network-api
 An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. Express.js for routing, a MongoDB database, and the Mongoose ODM was used. Created own API routing using Insomnia.  
 
+# Github Profile 
+toma95s
+
+# walkthrough
+
+https://drive.google.com/file/d/1Fco1jIYmDpj1GkJDYH0Kam_bUa-yLJTk/view
+
+
+
+
 
 <h2> Technologies Used </h2>
 
