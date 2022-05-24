@@ -4,7 +4,6 @@ An API for a social network web application where users can share their thoughts
 
 <h2> Technologies Used </h2>
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <img width="50" alt="badge5" src="https://img.shields.io/badge/-express--session-red"> 
 <img width="50" alt="badge2" src="https://img.shields.io/badge/-JavaScript-blue">
 
